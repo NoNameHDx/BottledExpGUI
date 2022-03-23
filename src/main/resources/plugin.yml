@@ -1,0 +1,9 @@
+name: SimpleBottledExp
+version: '${project.version}'
+main: me.nonamehd.de.simplebottledexp.SimpleBottledExp
+api-version: 1.16
+description: A simple plugin withit you can fill your xp into a bottle
+commands:
+  expbottle:
+    description: Opens a GUI
+
